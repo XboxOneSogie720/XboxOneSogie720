@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XboxOneSogie720
 - 👀 I’m interested in taking advantage of iDevice exploits with code
-- 🌱 I’m currently learning C++ & Python
+- 🌱 I’m currently learning C, Swift/SwiftUI, and Python3
 - 💞️ I’m looking to collaborate on iDevice utilities
 - 📫 How to reach me: Discord(XboxOneSogie720#6213) & [Twitter](https://twitter.com/XboxOneSogie720)
 
